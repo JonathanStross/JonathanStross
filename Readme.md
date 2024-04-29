@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanstross&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanstross" /> </p>
 
-- 📫 How to reach me **jonathan.stross@stud.h-da.de**
+- 📫 How to reach me **jonathan.stross@pathlock.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
